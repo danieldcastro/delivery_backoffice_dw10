@@ -5,11 +5,11 @@
 - [x] Acertar o Settings e analysis_options do projeto
 - [x] Adicionar e configurar o Flutter Modular e Mobx
 - [x] Criar estruturas de Environments 
-- [ ] Criar Helpers
+- [x] Criar Helpers
   - [x] Loader
   - [x] Messages
   - [x] SizeExtensions
-- [ ] Criar estilos, colors e text_styles
+- [x] Criar estilos, colors e text_styles
 - [ ] Criar tema 
 - [ ] Criar módulo e página de login
 - [ ] Implementar Custom Dio
