@@ -6,9 +6,9 @@
 - [x] Adicionar e configurar o Flutter Modular e Mobx
 - [x] Criar estruturas de Environments 
 - [ ] Criar Helpers
-  - [ ] Loader
-  - [ ] Messages
-  - [ ] SizeExtensions
+  - [x] Loader
+  - [x] Messages
+  - [x] SizeExtensions
 - [ ] Criar estilos, colors e text_styles
 - [ ] Criar tema 
 - [ ] Criar módulo e página de login
