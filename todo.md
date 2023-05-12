@@ -11,7 +11,7 @@
   - [x] SizeExtensions
 - [x] Criar estilos, colors e text_styles
 - [x] Criar tema 
-- [ ] Criar módulo e página de login
+- [x] Criar módulo e página de login
 - [ ] Implementar Custom Dio
 - [ ] Implementar Auth Data Layer
 - [ ] Implementar StorageClass

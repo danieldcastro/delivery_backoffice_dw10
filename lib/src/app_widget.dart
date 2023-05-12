@@ -7,10 +7,14 @@ class AppWidget extends StatelessWidget {
   const AppWidget({super.key});
 
   @override
-  Widget build(BuildContext context) => MaterialApp.router(
-        title: 'Application Name',
-        theme: ThemeConfig.theme,
-        routeInformationParser: Modular.routeInformationParser,
-        routerDelegate: Modular.routerDelegate,
-      );
+  Widget build(BuildContext context) {
+    Modular.setInitialRoute('/login');
+
+    return MaterialApp.router(
+      title: 'Delivery Back Office',
+      theme: ThemeConfig.theme,
+      routeInformationParser: Modular.routeInformationParser,
+      routerDelegate: Modular.routerDelegate,
+    );
+  }
 }
