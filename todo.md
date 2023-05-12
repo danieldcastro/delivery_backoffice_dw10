@@ -13,6 +13,6 @@
 - [x] Criar tema 
 - [x] Criar módulo e página de login
 - [x] Implementar Custom Dio
-- [ ] Implementar Auth Data Layer
+- [x] Implementar Auth Data Layer
 - [ ] Implementar StorageClass
 - [ ] Implementar Auth Service Layer
