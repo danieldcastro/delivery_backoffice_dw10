@@ -4,7 +4,7 @@
 - [x] Criar o projeto
 - [x] Acertar o Settings e analysis_options do projeto
 - [x] Adicionar e configurar o Flutter Modular e Mobx
-- [ ] Criar estruturas de Environments 
+- [x] Criar estruturas de Environments 
 - [ ] Criar Helpers
   - [ ] Loader
   - [ ] Messages

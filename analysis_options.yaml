@@ -15,3 +15,4 @@ linter:
     avoid_unused_constructor_parameters: true
     always_declare_return_types: true
     require_trailing_commas: true
+    prefer_expression_function_bodies: true
