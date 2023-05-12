@@ -10,7 +10,7 @@
   - [x] Messages
   - [x] SizeExtensions
 - [x] Criar estilos, colors e text_styles
-- [ ] Criar tema 
+- [x] Criar tema 
 - [ ] Criar módulo e página de login
 - [ ] Implementar Custom Dio
 - [ ] Implementar Auth Data Layer

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'app_colors.dart';
+import 'text_styles.dart';
 
 class AppStyles {
   static AppStyles? _instance;
@@ -15,6 +16,7 @@ class AppStyles {
           borderRadius: BorderRadius.circular(7),
         ),
         backgroundColor: AppColors.instance.primary,
+        textStyle: TextStyles.instance.textButtonLabel,
       );
 }
 
