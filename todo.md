@@ -14,5 +14,5 @@
 - [x] Criar módulo e página de login
 - [x] Implementar Custom Dio
 - [x] Implementar Auth Data Layer
-- [ ] Implementar StorageClass
+- [x] Implementar StorageClass
 - [ ] Implementar Auth Service Layer
