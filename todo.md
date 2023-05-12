@@ -15,4 +15,4 @@
 - [x] Implementar Custom Dio
 - [x] Implementar Auth Data Layer
 - [x] Implementar StorageClass
-- [ ] Implementar Auth Service Layer
+- [x] Implementar Auth Service Layer
