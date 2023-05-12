@@ -12,7 +12,7 @@
 - [x] Criar estilos, colors e text_styles
 - [x] Criar tema 
 - [x] Criar módulo e página de login
-- [ ] Implementar Custom Dio
+- [x] Implementar Custom Dio
 - [ ] Implementar Auth Data Layer
 - [ ] Implementar StorageClass
 - [ ] Implementar Auth Service Layer
